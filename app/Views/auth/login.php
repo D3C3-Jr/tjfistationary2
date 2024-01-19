@@ -22,7 +22,7 @@
         <!-- /.login-logo -->
         <div class="card card-outline card-primary">
             <div class="card-header text-center">
-                <a href="<?= base_url() ?>index2.html" class="h1"><b>Admin</b>LTE</a>
+                <a href="<?= base_url() ?>" class="h1"><b>TJFI</b>Stationary</a>
             </div>
             <div class="card-body">
                 <?= view('Myth\Auth\Views\_message_block') ?>
